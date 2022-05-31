@@ -1,0 +1,11 @@
+/Users/milutinstanojevic/RiderProjects/Sandwich/Sandwich/bin/Debug/netcoreapp2.1/Sandwich.deps.json
+/Users/milutinstanojevic/RiderProjects/Sandwich/Sandwich/bin/Debug/netcoreapp2.1/Sandwich.runtimeconfig.json
+/Users/milutinstanojevic/RiderProjects/Sandwich/Sandwich/bin/Debug/netcoreapp2.1/Sandwich.runtimeconfig.dev.json
+/Users/milutinstanojevic/RiderProjects/Sandwich/Sandwich/bin/Debug/netcoreapp2.1/Sandwich.dll
+/Users/milutinstanojevic/RiderProjects/Sandwich/Sandwich/bin/Debug/netcoreapp2.1/Sandwich.pdb
+/Users/milutinstanojevic/RiderProjects/Sandwich/Sandwich/obj/Debug/netcoreapp2.1/Sandwich.csprojAssemblyReference.cache
+/Users/milutinstanojevic/RiderProjects/Sandwich/Sandwich/obj/Debug/netcoreapp2.1/Sandwich.csproj.CoreCompileInputs.cache
+/Users/milutinstanojevic/RiderProjects/Sandwich/Sandwich/obj/Debug/netcoreapp2.1/Sandwich.AssemblyInfoInputs.cache
+/Users/milutinstanojevic/RiderProjects/Sandwich/Sandwich/obj/Debug/netcoreapp2.1/Sandwich.AssemblyInfo.cs
+/Users/milutinstanojevic/RiderProjects/Sandwich/Sandwich/obj/Debug/netcoreapp2.1/Sandwich.dll
+/Users/milutinstanojevic/RiderProjects/Sandwich/Sandwich/obj/Debug/netcoreapp2.1/Sandwich.pdb
