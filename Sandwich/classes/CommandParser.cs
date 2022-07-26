@@ -1,9 +1,10 @@
 using System.Collections.Generic;
 using System.Linq;
+using Sandwich.interfaces;
 
 namespace Sandwich
 {
-    public class CommandParser
+    public class CommandParser: Parser
     {
         public string[] args;
         public Dictionary<string, string> entry;
@@ -14,7 +15,7 @@ namespace Sandwich
             entry = new Dictionary<string, string>();
         }
 
-        public List<Sandwich> ParseCommand(List<Sandwich> sandwiches)
+        public List<Sandwich> Parse(List<Sandwich> sandwiches)
         {
             for (int i = 0; i < args.Length; i+=2)
             {
