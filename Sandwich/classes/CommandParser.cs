@@ -10,7 +10,7 @@ namespace Sandwich
         public Dictionary<string, string> entry;
 
         public CommandParser(string[] _args)
-        {
+        {       
             args = _args;
             entry = new Dictionary<string, string>();
         }

@@ -3,9 +3,9 @@ using Sandwich.interfaces;
 
 namespace Sandwich.factories
 {
-    public class CommandFactory
+    public class CommandFactory: Factory
     {
-        public Command createCommand(Parser parser, List<Sandwich> sandwiches)
+        public Command create(Parser parser, List<Sandwich> sandwiches)
         {
             Command command = new Command(parser.Parse(sandwiches));
             return command;

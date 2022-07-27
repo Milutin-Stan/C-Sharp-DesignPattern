@@ -11,13 +11,13 @@ namespace Sandwich
         {
             SandwitchFactory sandwitchFactory = new SandwitchFactory();
             
-            List<Sandwich> sandwiches = sandwitchFactory.createSandwitches();
+            List<Sandwich> sandwiches = sandwitchFactory.create();
 
             CommandParser commandParser = new CommandParser(args);
             
             CommandFactory commandFactory = new CommandFactory();
 
-            Command command = commandFactory.createCommand(commandParser, sandwiches);
+            Command command = commandFactory.create(commandParser, sandwiches);
 
             Console.WriteLine(command.ToString());
         }

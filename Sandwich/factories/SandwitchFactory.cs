@@ -1,11 +1,12 @@
 using System;
 using System.Collections.Generic;
+using Sandwich.interfaces;
 
 namespace Sandwich.factories
 {
-    public class SandwitchFactory
+    public class SandwitchFactory: Factory
     {
-        public List<Sandwich> createSandwitches()
+        public List<Sandwich> create()
         {
             List<String> newIngredientsA = new List<string>() {"Beure", "Sel", "Fromage", "Porc"};
             List<String> newIngredientsB = new List<string>() {"Beure", "Sel", "Fromage", "Poulet"};
